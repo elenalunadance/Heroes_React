@@ -1,0 +1,17 @@
+.card {
+    width: 18.5rem;
+    height: 25rem;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 1rem;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 0.3rem;
+    font-size: 14px;
+}
+
+.card-img {
+    width: 18.5rem;
+    height: 12.5rem;
+}
